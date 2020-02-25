@@ -15,6 +15,9 @@
 		BA573CD62405BE8400FE5307 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA573CD42405BE8400FE5307 /* LaunchScreen.storyboard */; };
 		BA573CE12405BE8400FE5307 /* Alert_HomeworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA573CE02405BE8400FE5307 /* Alert_HomeworkTests.swift */; };
 		BA573CEC2405BE8400FE5307 /* Alert_HomeworkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA573CEB2405BE8400FE5307 /* Alert_HomeworkUITests.swift */; };
+		BA573CFA2405BED200FE5307 /* AlertController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA573CF92405BED200FE5307 /* AlertController2.swift */; };
+		BA573CFC2405C58E00FE5307 /* cop_killer.wav in Resources */ = {isa = PBXBuildFile; fileRef = BA573CFB2405C58E00FE5307 /* cop_killer.wav */; };
+		BA573CFE2405C7F700FE5307 /* RC COla.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BA573CFD2405C7F700FE5307 /* RC COla.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +52,9 @@
 		BA573CE72405BE8400FE5307 /* Alert HomeworkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Alert HomeworkUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA573CEB2405BE8400FE5307 /* Alert_HomeworkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alert_HomeworkUITests.swift; sourceTree = "<group>"; };
 		BA573CED2405BE8400FE5307 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BA573CF92405BED200FE5307 /* AlertController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertController2.swift; sourceTree = "<group>"; };
+		BA573CFB2405C58E00FE5307 /* cop_killer.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = cop_killer.wav; sourceTree = "<group>"; };
+		BA573CFD2405C7F700FE5307 /* RC COla.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "RC COla.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +109,9 @@
 				BA573CCB2405BE8200FE5307 /* SceneDelegate.swift */,
 				BA573CCD2405BE8200FE5307 /* ViewController.swift */,
 				BA573CCF2405BE8200FE5307 /* Main.storyboard */,
+				BA573CF92405BED200FE5307 /* AlertController2.swift */,
+				BA573CFB2405C58E00FE5307 /* cop_killer.wav */,
+				BA573CFD2405C7F700FE5307 /* RC COla.jpeg */,
 				BA573CD22405BE8400FE5307 /* Assets.xcassets */,
 				BA573CD42405BE8400FE5307 /* LaunchScreen.storyboard */,
 				BA573CD72405BE8400FE5307 /* Info.plist */,
@@ -234,6 +243,8 @@
 			files = (
 				BA573CD62405BE8400FE5307 /* LaunchScreen.storyboard in Resources */,
 				BA573CD32405BE8400FE5307 /* Assets.xcassets in Resources */,
+				BA573CFC2405C58E00FE5307 /* cop_killer.wav in Resources */,
+				BA573CFE2405C7F700FE5307 /* RC COla.jpeg in Resources */,
 				BA573CD12405BE8200FE5307 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -262,6 +273,7 @@
 				BA573CCE2405BE8200FE5307 /* ViewController.swift in Sources */,
 				BA573CCA2405BE8200FE5307 /* AppDelegate.swift in Sources */,
 				BA573CCC2405BE8200FE5307 /* SceneDelegate.swift in Sources */,
+				BA573CFA2405BED200FE5307 /* AlertController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
